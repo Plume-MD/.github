@@ -12,6 +12,10 @@
   <a href="https://plume-md.com/docs.html">Documentation</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/reading.png" width="820" alt="A document open in Plume, with the folder tree in the sidebar, a callout, and a table rendering wiki links, highlights, tags and inline maths">
+</p>
+
 ---
 
 ## What this is
@@ -33,6 +37,49 @@ and nothing else in the way.
 - **Plume Vault** — 100 MB, free and optional, for the same notes on another machine
 
 Free software under the MIT licence, for Windows, macOS and Linux.
+
+---
+
+## Five palettes, light and dark
+
+A palette recolours whichever of light or dark is in force rather than replacing
+that choice — so Auto keeps following your system inside any of them.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/palettes.gif" width="760" alt="Plume switching between the Greenwood, Commit, Lapis and Starless palettes, then into dark mode">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/palettes-grid.png" width="860" alt="All five Plume palettes shown in both light and dark: Plume, Starless, Greenwood, Commit and Lapis">
+</p>
+
+## The graph
+
+Every document in your vault, joined by the links between them.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/graph.gif" width="720" alt="The Plume vault graph settling, then being fitted and re-arranged">
+</p>
+
+## Git sync
+
+Pull what changed elsewhere, commit what changed here, push. Plume drives the
+`git` already on your machine, so your credentials stay in your credential helper
+or SSH agent — Plume never sees a token, never stores one and never asks for one.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/git-sync.png" width="820" alt="The Git sync panel in Plume, showing a folder, its GitHub remote, the branch and the last commit">
+</p>
+
+## The full tour
+
+<video src="https://raw.githubusercontent.com/Plume-MD/.github/master/assets/tour.mp4" controls muted loop width="820"></video>
+
+If the player above does not appear, the same film is on
+[plume-md.com](https://plume-md.com) — or download it
+[here](https://raw.githubusercontent.com/Plume-MD/.github/master/assets/tour.mp4).
+
+---
 
 ## Repositories
 
